@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\Basic Syntax, Conditional Statements and Loops\01-Basic syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache
